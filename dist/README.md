@@ -6,24 +6,24 @@
   This command-line application allows you to dynamically create a professional README.md file from user input
 
   ## Table of Contents
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+  * [Installation](#-installation)
+  * [Usage](#-usage)
+  * [License](#-license)
+  * [Contributing](#-contributing)
+  * [Tests](#tests)
+  * [Questions](#-questions)
 
   ## 🚀 Installation
   To install necessary dependencies, run the following command:
   ```
-  nmp install inquirer
+  npm install inquirer
   ```
   ## 📖 Usage
-  Just run `node index` in your command line to get started!
+  Just run`node index` in your command line to get started!
   ## 📝 License
   This project is licensed under the MIT license.
   ## 🤝 Contributing
-  If you would like to contribute please file an issue
+  If you would like to contribute, please file an issue
   ## Tests
   To run tests, run the following command:
   ```
