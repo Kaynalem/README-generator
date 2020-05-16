@@ -10,30 +10,30 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
+  * [Installation](#🚀-installation)
+  * [Usage](#📖-usage)
+  * [License](#📝-license)
+  * [Contributing](#🤝-contributing)
+  * [Tests](#✅-tests)
+  * [Questions](#❓-questions)
 
-  ## Installation 🚀
+  ## 🚀 Installation
   To install necessary dependencies, run the following command:
   \`\`\`
   ${data.installation}
   \`\`\`
-  ## Usage 📖
+  ## 📖 Usage
   ${data.usage}
-  ## License 📝
+  ## 📝 License
   This project is licensed under the ${data.license} license.
-  ## Contributing 🤝
+  ## 🤝 Contributing
   ${data.contributing}
-  ## Tests ✅
+  ## ✅ Tests
   To run tests, run the following command:
   \`\`\`
   ${data.tests}
   \`\`\`
-  ## Questions ❓
+  ## ❓ Questions
   If you have any questions about the repo, open an issue or contact me directly at [${data.email}](mailto:${data.email}).  
   You can find more of my work at my [Github](https://github.com/${data.github}) page.
 `;

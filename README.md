@@ -1,4 +1,3 @@
-
 # README-generator
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -6,12 +5,12 @@
   This command-line application allows you to dynamically create a professional README.md file from user input
 
   ## Table of Contents
-  * [Installation](#-installation)
-  * [Usage](#-usage)
-  * [License](#-license)
-  * [Contributing](#-contributing)
-  * [Tests](#-tests)
-  * [Questions](#-questions)
+  * [Installation](#🚀-installation)
+  * [Usage](#📖-usage)
+  * [License](#📝-license)
+  * [Contributing](#🤝-contributing)
+  * [Tests](#✅-tests)
+  * [Questions](#❓-questions)
 
   ## 🚀 Installation
   To install necessary dependencies, run the following command:
