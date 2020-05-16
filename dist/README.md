@@ -23,11 +23,11 @@
   ## 📝 License
   This project is licensed under the MIT license.
   ## 🤝 Contributing
-  if you would like to contribute, please file an issue
-  ## ✔️ Tests
+  If you would like to contribute, please file an issue
+  ## ✅ Tests
   To run tests, run the following command:
   ```
-    nmp test
+    npm test
   ```
   ## ❓ Questions
   If you have any questions about the repo, open an issue or contact me directly at [kaynalem@gmail.com](mailto:kaynalem@gmail.com).  
