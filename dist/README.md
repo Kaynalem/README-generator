@@ -1,9 +1,9 @@
 
   # README-generator
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![License](https://img.shields.io/badge/License-Mozilla-blue.svg)
 
   ## Description
-  This command-line application allows you to dynamically create a professional README.md file from user input
+  This command-line application allows you to dynamicaly create a professional README.md file from user input
 
   ## Table of Contents
   * [Installation](#-installation)
@@ -16,15 +16,15 @@
   ## 🚀 Installation
   To install necessary dependencies, run the following command:
   ```
-  npm install inquirer
+  npm test
   ```
   ## 📖 Usage
-  Just run`node index` in your command line to get started!
+  Just run `node index` in your command line to get started!
   ## 📝 License
-  This project is licensed under the MIT license.
+  This project is licensed under the Mozilla license.
   ## 🤝 Contributing
   If you would like to contribute, please file an issue
-  ## ✔️ Tests
+  ## ✅ Tests
   To run tests, run the following command:
   ```
     npm test
