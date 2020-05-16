@@ -1,3 +1,7 @@
+const inquirer = require('inquirer');
+const fs = require('fs');
+const generateMarkdown= require('./utils/generateMarkdown.js');
+
 // array of questions for user
 const promptUser = () => {
     return inquirer.prompt([
@@ -54,10 +58,10 @@ const promptUser = () => {
             }
         },
         {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',
-        choices: ['MIT', 'ISC', 'Apache License 2.0', 'GNU GPLv3', 'GNUGPLv2', 'BSD', 'Mozilla Public License 2.0', 'Unlicense']
+        choices: ['MIT', 'ISC', 'Apache', 'GNU', 'BSD', 'Mozilla', 'Unlicense']
         },
         {
         type: 'input',
@@ -115,8 +119,8 @@ const promptUser = () => {
 };
 
 // function to write README file
-function writeToFile(fileName, data) {
-}
+//function writeToFile(fileName, data) {
+//}
 
 // function to initialize program
 const init = () => {
@@ -127,18 +131,11 @@ Create your professional README
 `);
 promptUser()
     .then(data => {
-        return writeFile(data);
+        fs.writeFile('./README.md', generateMarkdown(data), err => {
+            if (err) throw err;
+            console.log('README created! Check out README.md in this directory to see it!')
+        });
     })
-    .then(writeFileResponse => {
-        console.log(writeFileResponse);
-        return copyFile();
-    })
-    .then(copyFileResponse => {
-        console.log(copyFileResponse);
-    })
-    .catch(err => {
-        console.log(err);
-    });
 }
 
 // function call to initialize program
