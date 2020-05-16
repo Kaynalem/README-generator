@@ -19,12 +19,12 @@
   npm install inquirer
   ```
   ## 📖 Usage
-  Just run `node index` in your command line to get started!
+  Just run`node index` in your command line to get started!
   ## 📝 License
   This project is licensed under the MIT license.
   ## 🤝 Contributing
   If you would like to contribute, please file an issue
-  ## ✅ Tests
+  ## ✔️ Tests
   To run tests, run the following command:
   ```
     npm test
