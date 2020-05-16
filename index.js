@@ -33,7 +33,7 @@ const promptUser = () => {
         },
         {
         type: 'input',
-        name: 'project',
+        name: 'title',
         message: 'What is your project\'s name (Required)',
         validate: nameInput => {
             if (nameInput) {
@@ -131,9 +131,9 @@ Create your professional README
 `);
 promptUser()
     .then(data => {
-        fs.writeFile('./README.md', generateMarkdown(data), err => {
+        fs.writeFile('./dist/README.md', generateMarkdown(data), err => {
             if (err) throw err;
-            console.log('README created! Check out README.md in this directory to see it!')
+            console.log('README created! Check out README.md in dist directory to see it!')
         });
     })
 }
