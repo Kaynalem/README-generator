@@ -119,8 +119,26 @@ function writeToFile(fileName, data) {
 }
 
 // function to initialize program
-function init() {
-
+const init = () => {
+    console.log(`
+=================
+Create your professional README
+=================
+`);
+promptUser()
+    .then(data => {
+        return writeFile(data);
+    })
+    .then(writeFileResponse => {
+        console.log(writeFileResponse);
+        return copyFile();
+    })
+    .then(copyFileResponse => {
+        console.log(copyFileResponse);
+    })
+    .catch(err => {
+        console.log(err);
+    });
 }
 
 // function call to initialize program
