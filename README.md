@@ -1,5 +1,5 @@
 
-  # README-generator
+# README-generator
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
@@ -10,7 +10,7 @@
   * [Usage](#-usage)
   * [License](#-license)
   * [Contributing](#-contributing)
-  * [Tests](#tests)
+  * [Tests](#-tests)
   * [Questions](#-questions)
 
   ## 🚀 Installation
@@ -19,15 +19,15 @@
   npm install inquirer
   ```
   ## 📖 Usage
-  Just run`node index` in your command line to get started!
+  Just run `node index` in your command line to get started!
   ## 📝 License
   This project is licensed under the MIT license.
   ## 🤝 Contributing
-  If you would like to contribute, please file an issue
-  ## Tests
+  if you would like to contribute, please file an issue
+  ## ✔️ Tests
   To run tests, run the following command:
   ```
-    npm test
+    nmp test
   ```
   ## ❓ Questions
   If you have any questions about the repo, open an issue or contact me directly at [kaynalem@gmail.com](mailto:kaynalem@gmail.com).  

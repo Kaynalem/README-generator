@@ -14,7 +14,7 @@ function generateMarkdown(data) {
   * [Usage](#-usage)
   * [License](#-license)
   * [Contributing](#-contributing)
-  * [Tests](#tests)
+  * [Tests](#-tests)
   * [Questions](#-questions)
 
   ## 🚀 Installation
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   This project is licensed under the ${data.license} license.
   ## 🤝 Contributing
   ${data.contributing}
-  ## Tests
+  ## ✔️ Tests
   To run tests, run the following command:
   \`\`\`
     ${data.tests}
