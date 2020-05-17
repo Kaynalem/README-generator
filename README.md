@@ -28,10 +28,7 @@
   ## 🤝 Contributing
   If you would like to contribute, please file an issue
   ## ✅ Tests
-  To run tests, run the following command:
-  ```
-  npm test
-  ```
+  There are currently no tests to run
   ## ❓ Questions
   If you have any questions about the repo, open an issue or contact me directly at [kaynalem@gmail.com](mailto:kaynalem@gmail.com).  
   You can find more of my work at my [Github](https://github.com/kaynalem) page.
