@@ -7,7 +7,7 @@
   Follow along with this [video](https://drive.google.com/file/d/1-H9MU6wa7blrZ5rtAqfeax5g0zPjNjeK/view)  
   ![demo](https://github.com/Kaynalem/README-generator/blob/master/utils/Untitled_%20May%2016,%202020%208_17%20PM.gif?raw=true)  
   Generated `README.md`:  
-  ![mockup](https://raw.githubusercontent.com/Kaynalem/README-generator/master/utils/mockup.PNG))
+  ![mockup](https://raw.githubusercontent.com/Kaynalem/README-generator/master/utils/mockup.PNG)
   ## Table of Contents
   * [Installation](#-installation)
   * [Usage](#-usage)
