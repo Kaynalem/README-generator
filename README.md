@@ -4,8 +4,8 @@
   ## Description
   This command-line application allows you to dynamically create a professional README.md file from user input
   ## Demo
-  Follow along with this![video](https://github.com/Kaynalem/README-generator/blob/master/utils/Untitled_%20May%2016,%202020%207_35%20PM.mp4?raw=true)
-  ![demo](https://github.com/Kaynalem/README-generator/blob/master/utils/Untitled_%20May%2016,%202020%207_35%20PM.gif?raw=true)
+  Follow along with this [video](https://github.com/Kaynalem/README-generator/blob/master/utils/Untitled_%20May%2016,%202020%207_35%20PM.mp4?raw=true)  
+  ![demo](https://github.com/Kaynalem/README-generator/blob/master/utils/Untitled_%20May%2016,%202020%207_35%20PM.gif?raw=true)  
   Generated `README.md`:
   ![mockup](https://raw.githubusercontent.com/Kaynalem/README-generator/master/utils/mockup.PNG))
   ## Table of Contents
