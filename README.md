@@ -3,14 +3,17 @@
 
   ## Description
   This command-line application allows you to dynamically create a professional README.md file from user input
-
+  ## Demo
+  Follow along with this![video](https://drive.google.com/file/d/1-H9MU6wa7blrZ5rtAqfeax5g0zPjNjeK/view)  
+  Generated `README.md`:
+  ![mockup](https://raw.githubusercontent.com/Kaynalem/README-generator/master/mockup.PNG))
   ## Table of Contents
-  * [Installation](#🚀-installation)
-  * [Usage](#📖-usage)
-  * [License](#📝-license)
-  * [Contributing](#🤝-contributing)
-  * [Tests](#✅-tests)
-  * [Questions](#❓-questions)
+  * [Installation](#-installation)
+  * [Usage](#-usage)
+  * [License](#-license)
+  * [Contributing](#-contributing)
+  * [Tests](#-tests)
+  * [Questions](#-questions)
 
   ## 🚀 Installation
   To install necessary dependencies, run the following command:
